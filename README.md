@@ -8,7 +8,6 @@
 ## Мои навыки
 - Python
 - Git
-- 
 ## Связаться со мной
 
 - vladgremlim1337@gmail.com
